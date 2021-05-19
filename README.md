@@ -43,7 +43,3 @@
 - NextJs ✔
 - Yarn ✔
 - Armazenamento em cookies
-
-## Link do Site
-
-https://moveit-beryl-three.vercel.app/
